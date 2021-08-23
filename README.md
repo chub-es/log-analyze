@@ -8,7 +8,7 @@ Log Analyze
 ------------
 
 ```bash
-composer require back-dev/log-analyze
+composer require 3b1t/log-analyze
 ```
 
 Использование
